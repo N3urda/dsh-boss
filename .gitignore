@@ -1,0 +1,9 @@
+node_modules/
+lib/
+*.tgz
+.test-home/
+*.sqlite*
+.DS_Store
+.runtime/
+.local/
+__pycache__/

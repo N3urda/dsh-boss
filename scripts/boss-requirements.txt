@@ -1,0 +1,4 @@
+boss-agent-cli[mcp]==3.0.1
+mcp==2.3.0
+
+websockets==17.3
